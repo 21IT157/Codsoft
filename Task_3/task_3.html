@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Restaurant Menu</h1>
+
+        <div class="menu-section">
+            <h2>Indian Dishes</h2>
+            <ul>
+                <li>Butter Chicken - ₹300 <button onclick="addToCart('Butter Chicken', 300)">Add to Cart</button></li>
+                <li>Paneer Tikka - ₹250 <button onclick="addToCart('Paneer Tikka', 250)">Add to Cart</button></li>
+                <li>Chole Bhature - ₹200 <button onclick="addToCart('Chole Bhature', 200)">Add to Cart</button></li>
+                <li>Biryani - ₹350 <button onclick="addToCart('Biryani', 350)">Add to Cart</button></li>
+                <li>Dal Makhani - ₹150 <button onclick="addToCart('Dal Makhani', 150)">Add to Cart</button></li>
+                <li>Rogan Josh - ₹400 <button onclick="addToCart('Rogan Josh', 400)">Add to Cart</button></li>
+                <li>Samosa - ₹50 <button onclick="addToCart('Samosa', 50)">Add to Cart</button></li>
+                <li>Naan - ₹30 <button onclick="addToCart('Naan', 30)">Add to Cart</button></li>
+                <li>Gulab Jamun - ₹80 <button onclick="addToCart('Gulab Jamun', 80)">Add to Cart</button></li>
+                <li>Raita - ₹60 <button onclick="addToCart('Raita', 60)">Add to Cart</button></li>
+            </ul>
+        </div>
+
+        <div class="menu-section">
+            <h2>Chinese Dishes</h2>
+            <ul>
+                <li>Spring Rolls - ₹150 <button onclick="addToCart('Spring Rolls', 150)">Add to Cart</button></li>
+                <li>Sweet and Sour Pork - ₹300 <button onclick="addToCart('Sweet and Sour Pork', 300)">Add to Cart</button></li>
+                <li>Kung Pao Chicken - ₹350 <button onclick="addToCart('Kung Pao Chicken', 350)">Add to Cart</button></li>
+                <li>Fried Rice - ₹200 <button onclick="addToCart('Fried Rice', 200)">Add to Cart</button></li>
+                <li>Dim Sum - ₹250 <button onclick="addToCart('Dim Sum', 250)">Add to Cart</button></li>
+                <li>Hot and Sour Soup - ₹120 <button onclick="addToCart('Hot and Sour Soup', 120)">Add to Cart</button></li>
+                <li>Lo Mein - ₹300 <button onclick="addToCart('Lo Mein', 300)">Add to Cart</button></li>
+                <li>General Tso's Chicken - ₹350 <button onclick="addToCart('General Tso\'s Chicken', 350)">Add to Cart</button></li>
+                <li>Peking Duck - ₹500 <button onclick="addToCart('Peking Duck', 500)">Add to Cart</button></li>
+                <li>Mapo Tofu - ₹250 <button onclick="addToCart('Mapo Tofu', 250)">Add to Cart</button></li>
+            </ul>
+        </div>
+
+        <div class="menu-section">
+            <h2>Mexican Dishes</h2>
+            <ul>
+                <li>Tacos - ₹150 <button onclick="addToCart('Tacos', 150)">Add to Cart</button></li>
+                <li>Burritos - ₹200 <button onclick="addToCart('Burritos', 200)">Add to Cart</button></li>
+                <li>Quesadillas - ₹180 <button onclick="addToCart('Quesadillas', 180)">Add to Cart</button></li>
+                <li>Guacamole - ₹120 <button onclick="addToCart('Guacamole', 120)">Add to Cart</button></li>
+                <li>Nachos - ₹170 <button onclick="addToCart('Nachos', 170)">Add to Cart</button></li>
+                <li>Fajitas - ₹250 <button onclick="addToCart('Fajitas', 250)">Add to Cart</button></li>
+                <li>Churros - ₹100 <button onclick="addToCart('Churros', 100)">Add to Cart</button></li>
+                <li>Enchiladas - ₹200 <button onclick="addToCart('Enchiladas', 200)">Add to Cart</button></li>
+                <li>Chimichangas - ₹220 <button onclick="addToCart('Chimichangas', 220)">Add to Cart</button></li>
+                <li>Tamales - ₹180 <button onclick="addToCart('Tamales', 180)">Add to Cart</button></li>
+            </ul>
+        </div>
+
+        <div class="menu-section">
+            <h2>Italian Dishes</h2>
+            <ul>
+                <li>Margherita Pizza - ₹300 <button onclick="addToCart('Margherita Pizza', 300)">Add to Cart</button></li>
+                <li>Lasagna - ₹350 <button onclick="addToCart('Lasagna', 350)">Add to Cart</button></li>
+                <li>Spaghetti Carbonara - ₹250 <button onclick="addToCart('Spaghetti Carbonara', 250)">Add to Cart</button></li>
+                <li>Fettuccine Alfredo - ₹280 <button onclick="addToCart('Fettuccine Alfredo', 280)">Add to Cart</button></li>
+                <li>Bruschetta - ₹150 <button onclick="addToCart('Bruschetta', 150)">Add to Cart</button></li>
+                <li>Tiramisu - ₹200 <button onclick="addToCart('Tiramisu', 200)">Add to Cart</button></li>
+                <li>Risotto - ₹300 <button onclick="addToCart('Risotto', 300)">Add to Cart</button></li>
+                <li>Panna Cotta - ₹180 <button onclick="addToCart('Panna Cotta', 180)">Add to Cart</button></li>
+                <li>Gnocchi - ₹250 <button onclick="addToCart('Gnocchi', 250)">Add to Cart</button></li>
+                <li>Minestrone - ₹220 <button onclick="addToCart('Minestrone', 220)">Add to Cart</button></li>
+            </ul>
+        </div>
+
+        <div class="cart">
+            <h2>Shopping Cart</h2>
+            <ul id="cart-items">
+                <!-- Cart items will be appended here -->
+            </ul>
+            <p>Subtotal: ₹<span id="total-price">0</span></p>
+            <p>Tax (5%): ₹<span id="tax-amount">0</span></p>
+            <p>Delivery Charge: ₹<span id="delivery-charge">40</span></p>
+            <p><strong>Total: ₹<span id="final-price">0</span></strong></p>
+            <button onclick="calculateFinalBill()">Buy</button>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
