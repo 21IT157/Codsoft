@@ -49,79 +49,79 @@ This repository is created to document the progress and learning experiences dur
 - Planned the next steps for the project.
 
 ### Week 2: Login and Sign-up Flow
-#### Day 6
+#### Day 1
 - Introduction to the Login and Sign-up flow project.
 - Research on best practices for authentication UI/UX.
 - Started sketching wireframes for login and sign-up pages.
 
-#### Day 7
+#### Day 2
 - Created detailed wireframes for login and sign-up pages.
 - Team meeting to review wireframes and discuss user flow.
 - Incorporated feedback and began low-fidelity prototyping in Figma.
 
-#### Day 8
+#### Day 3
 - Continued working on the low-fidelity prototype.
 - Conducted usability testing with a small group of users.
 - Documented feedback and identified areas for improvement.
 
-#### Day 9
+#### Day 4
 - Revised the prototype based on usability testing feedback.
 - Began designing high-fidelity mockups in Figma.
 - Participated in a design review meeting.
 
-#### Day 10
+#### Day 5
 - Finalized high-fidelity mockups for the login and sign-up flow.
 - Presented the final designs to the team for feedback.
 - Prepared for the next project: Restaurant Menu.
 
 ### Week 3: Restaurant Menu
-#### Day 11
+#### Day 1
 - Introduction to the Restaurant Menu project.
 - Research on effective menu design and user preferences.
 - Started sketching wireframes for the restaurant menu layout.
 
-#### Day 12
+#### Day 2
 - Created detailed wireframes for the restaurant menu.
 - Team meeting to review wireframes and gather feedback.
 - Began low-fidelity prototyping in Figma.
 
-#### Day 13
+#### Day 3
 - Continued working on the low-fidelity prototype.
 - Conducted a design critique session with the team.
 - Incorporated feedback and made necessary adjustments.
 
-#### Day 14
+#### Day 4
 - Began designing high-fidelity mockups for the restaurant menu.
 - Added visual elements such as images and icons.
 - Conducted usability testing with potential users.
 
-#### Day 15
+#### Day 5
 - Finalized high-fidelity mockups for the restaurant menu.
 - Presented the final designs to the team for approval.
 - Prepared for the next project: Email Template.
 
 ### Week 4: Email Template
-#### Day 16
+#### Day 
 - Introduction to the Email Template project.
 - Research on effective email design and best practices.
 - Started sketching wireframes for the email template.
 
-#### Day 17
+#### Day 2
 - Created detailed wireframes for the email template.
 - Team meeting to review wireframes and discuss content layout.
 - Began low-fidelity prototyping in Figma.
 
-#### Day 18
+#### Day 3
 - Continued working on the low-fidelity prototype.
 - Conducted a design review session with the team.
 - Incorporated feedback and made necessary adjustments.
 
-#### Day 19
+#### Day 4
 - Began designing high-fidelity mockups for the email template.
 - Focused on typography, color scheme, and imagery.
 - Conducted usability testing with a small group of users.
 
-#### Day 20
+#### Day 5
 - Finalized high-fidelity mockups for the email template.
 - Presented the final designs to the team for feedback.
 - Prepared a summary report of all projects completed so far.
@@ -140,8 +140,6 @@ The focus this week was on designing a restaurant menu. The process involved res
 ### Week 4 Summary
 This week centered around designing an email template. Research, wireframing, prototyping, and usability testing were key activities. The final high-fidelity mockups were completed, and the project was wrapped up successfully with positive feedback from the team.
 
-### Week 5 Summary
-(Provide a summary of Week 5)
 
 ## Conclusion
 The internship provided a comprehensive learning experience in the field of UI/UX design. Each week brought new challenges and learning opportunities, contributing to my growth as a designer. This repository serves as a reflection of the work done and the progress made throughout the internship.
