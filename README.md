@@ -11,13 +11,11 @@ This repository contains a detailed log of the daily tasks and weekly summaries 
   - [Week 2](#week-2)
   - [Week 3](#week-3)
   - [Week 4](#week-4)
-  - [Week 5](#week-5)
 - [Weekly Summaries](#weekly-summaries)
   - [Week 1 Summary](#week-1-summary)
   - [Week 2 Summary](#week-2-summary)
   - [Week 3 Summary](#week-3-summary)
   - [Week 4 Summary](#week-4-summary)
-  - [Week 5 Summary](#week-5-summary)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -25,7 +23,7 @@ This repository is created to document the progress and learning experiences dur
 
 ## Daily Tasks
 
-### Week 1
+### Week 1 : Getting Hands on with the tools
 #### Day 1
 - Introduction to the team and overview of the internship goals.
 - Setup of development environment and necessary tools.
